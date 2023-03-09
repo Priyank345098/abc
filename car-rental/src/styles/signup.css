@@ -1,0 +1,42 @@
+.signup_form{
+  background: #000d6b;
+  color: #fff;
+  max-width: 380px;
+  padding: 20px 0px;
+	margin: 0 auto;
+	/* background-color: #fff; */
+	border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.bg-image{
+    /* background: #000d6b; */
+    padding: 10px 0px;
+
+}
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    padding: -10px 0px;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: white;
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+    }
+    input[type=radio] {
+        width: 20px;
+        height: 20px;
+    }
+    
+.lb-lg {
+    font-size: 20px;
+  }
